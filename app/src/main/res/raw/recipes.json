@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pancakes",
+    "ingredients": "Flour, Milk, Eggs, Sugar, Butter",
+    "method": "Mix all ingredients. Heat pan. Pour batter. Cook until golden. Flip and cook the other side."
+  },
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": "Spaghetti, Minced Beef, Tomato Sauce, Onion, Garlic",
+    "method": "Brown the beef. Add onion and garlic. Pour tomato sauce. Simmer for 20 min. Serve over cooked spaghetti."
+  },
+  {
+    "name": "Omelette",
+    "ingredients": "Eggs, Cheese, Ham, Milk, Butter",
+    "method": "Beat eggs with milk. Melt butter in pan. Pour eggs. Add cheese and ham. Fold and serve."
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": "Lettuce, Croutons, Parmesan, Caesar Dressing, Chicken",
+    "method": "Grill chicken and slice. Toss lettuce with dressing. Add croutons, parmesan, and chicken."
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": "Tomatoes, Onion, Garlic, Vegetable Stock, Cream",
+    "method": "Sauté onion and garlic. Add tomatoes and stock. Simmer 20 min. Blend smooth. Stir in cream."
+  }
+]
