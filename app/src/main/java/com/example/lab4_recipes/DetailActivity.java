@@ -15,7 +15,6 @@ public class DetailActivity extends AppCompatActivity {
             RecipeDetailFragment detailFragment = RecipeDetailFragment.newInstance(index);
             getSupportFragmentManager().beginTransaction()
                     .replace(R.id.detail_container, detailFragment)
-                    .addToBackStack(null)
                     .commit();
         }
     }
